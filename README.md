@@ -68,6 +68,7 @@ Update the `songs` array in `script.js` with new entries. Example:
 const songs = [
   { title: "New Song", artist: "New Artist", src: "path/to/new-song.mp3" },
 ];
+```
 
 ## Styling:
 Modify `style.css` to adjust colors, fonts, or layout to your preference.
